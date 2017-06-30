@@ -5,7 +5,7 @@
     "PREFIXES" : [
         "!"
     ],
-    "TOKEN" : "MzMwMTEwOTIzMjY2MTk1NDY3.DDc_zg.TJc8QEk4JqqBAox_bMClBTxQVnU",
+    "TOKEN" : process.env.TOKEN,
     "default" : {
         "ADMIN_ROLE" : "Admin",
         "MOD_ROLE" : "Moderator",
